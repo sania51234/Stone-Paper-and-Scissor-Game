@@ -40,5 +40,6 @@ python game.py
 ```
 
 Follow the on-screen instructions to play the game by choosing St, P, or S.
-![image](https://github.com/user-attachments/assets/ca64ec03-a217-4ad7-b42a-4b8e8c190d10)
+![image](https://github.com/user-attachments/assets/9eac3041-2a96-4da1-a187-6c124639c001)
+
 
